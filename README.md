@@ -1,3 +1,3 @@
-DIVIDE & CONQUER - Recursion practice via The Odin Project curriculum
+DIVIDE & CONQUER 
 
-["Simple explanation of Recursion via The Bastards Book of Ruby"](http://ruby.bastardsbook.com/chapters/recursion/)
+Follow [this link](http://ruby.bastardsbook.com/chapters/recursion/) to read an simple but great explanation on Recursion via The Bastards Book of Ruby.
